@@ -473,15 +473,15 @@ df.to_csv("Modified")
 # <a id='conclusions'></a>
 # ## Conclusions:
 # ### After investigating the data frame we knew the following:
-# > - The most Region has terrorism attacks and killed people in the world is **Middle East & North Africa** with $41296$ attacks and $115913$ peoples killed by terrorists.
-# -The most Country has terrorism attacks and killed people in the Middle East and the World is **Iraq** with $21066$ attacks and $68408$ peoples killed by terrorists.
-# -The most Governate has terrorism attacks in Iraq and the World is **Baghdad** with $7129$ attacks.
-# -The most Weapons used in the attacks is **Bombing/Explosion** with $74250$ attacks using this weapon.
-# -The most Targets by Terrorists is **Civilians** with $5688$ attacks on it.
-# -The most country has #of kills per attack is **Barbados** with an average $25$ kills per attack.
-# -The most Region has #of kills per attack is **Sub-Saharan Africa** with an average $4.7$ kills per attack.
+# > - The most Region has terrorism attacks and killed people in the world is **Middle East & North Africa** with $41296$ attacks and $115913$ peoples killed by terrorists.<br>
+# > - The most Country has terrorism attacks and killed people in the Middle East and the World is **Iraq** with $21066$ attacks and $68408$ peoples killed by terrorists.<br>
+# > - The most Governate has terrorism attacks in Iraq and the World is **Baghdad** with $7129$ attacks.<br>
+# > - The most Weapons used in the attacks is **Bombing/Explosion** with $74250$ attacks using this weapon.<br>
+# > - The most Targets by Terrorists is **Civilians** with $5688$ attacks on it.<br>
+# > - The most country has #of kills per attack is **Barbados** with an average $25$ kills per attack.<br>
+# > - The most Region has #of kills per attack is **Sub-Saharan Africa** with an average $4.7$ kills per attack.<br>
 # >
-# >**Recommendation:**<br>
-# Finally, Iraq faced a fatal war caused by the USA, which caused immense suffering and had far-reaching consequences for the lives of its people. The country's infrastructure has been severely damaged. Despite these challenges, the people of Iraq have shown remarkable resilience, and determination in the face of adversity and terrorism. Ultimately, it is only through cooperation and dialogue that a lasting solution can be found to end the suffering caused by this devastating war.
+# > **Recommendation:**<br>
+# > Finally, Iraq faced a fatal war caused by the USA, which caused immense suffering and had far-reaching consequences for the lives of its people. The country's infrastructure has been severely damaged. Despite these challenges, the people of Iraq have shown remarkable resilience, and determination in the face of adversity and terrorism. Ultimately, it is only through cooperation and dialogue that a lasting solution can be found to end the suffering caused by this devastating war.<br>
 # ## Data Limitation
 # > As I said before the dataset is not considering the World Wars as terrorist acts and did not waste the lives of millions of people in the other hand it considers the war in Iraq as a terrorist act, which is very confusing for me actually.
