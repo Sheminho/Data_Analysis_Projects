@@ -1,0 +1,1 @@
+For the interactive dashboard click <a href = "https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCapstone%2BDashboard%2Bproject&action=view&mode=dashboard&subView=model0000018db227904a_00000000"> here </a>
